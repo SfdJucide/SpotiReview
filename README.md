@@ -1,6 +1,6 @@
 # SpotiReview
 
-EDA of Spotify Top Charts (2017-2021)
+EDA of Spotify Top Charts (2017-2021). And also simple dashboard made in Tableau
 
 ## About Dataset
 
@@ -10,4 +10,4 @@ This is a complete dataset of all the "Top 200" and "Viral 50" charts published 
 
 ## Dashboard
 
-![dashboard-review]()
+![dashboard-review](https://github.com/SfdJucide/SpotiReview/blob/main/materials/spotify_dashboard.png)
