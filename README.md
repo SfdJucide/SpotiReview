@@ -2,6 +2,8 @@
 
 EDA of Spotify Top Charts (2017-2021). And also simple dashboard made in Tableau
 
+Full version of notebook with all plotly chart stores [here](https://nbviewer.org/github/SfdJucide/SpotiReview/blob/main/Spotify_EDA.ipynb#Finding-artists-with-highest-number-of-streams)
+
 ## About Dataset
 
 ### Content
